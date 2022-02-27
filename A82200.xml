@@ -1,0 +1,605 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Northerne Army with instructions concluded at a Councell of Warre, concerning the northerne forces. Also a Letter concerning the countries resolutions in relation to the Scots. Decemb. 30. 1647. I approve, ratifie, and confirme these orders of the Councell of Warre, and require all officers and souldiers, of the Army under my command duly to observe the same; and all field officers (in their severall places) to see that they be made known to all under their respective command, as other the Articles and laws of Warre; and to cause them forthwith to be published in every parish church with in the quarters of each troope and company, that they may be the better made known to the country. Given under my hand the 30 of Decemb. 1647. J. Lambert.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82200</idno>
+            <idno type="STC">Wing D725</idno>
+            <idno type="STC">Thomason E421_31</idno>
+            <idno type="STC">ESTC R204778</idno>
+            <idno type="EEBO-CITATION">99864240</idno>
+            <idno type="PROQUEST">99864240</idno>
+            <idno type="VID">116465</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116465)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E421[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Northerne Army with instructions concluded at a Councell of Warre, concerning the northerne forces. Also a Letter concerning the countries resolutions in relation to the Scots. Decemb. 30. 1647. I approve, ratifie, and confirme these orders of the Councell of Warre, and require all officers and souldiers, of the Army under my command duly to observe the same; and all field officers (in their severall places) to see that they be made known to all under their respective command, as other the Articles and laws of Warre; and to cause them forthwith to be published in every parish church with in the quarters of each troope and company, that they may be the better made known to the country. Given under my hand the 30 of Decemb. 1647. J. Lambert.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Thomas Broad ;</publisher>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at York :</pubPlace>
+                  <pubPlace>and re-printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotations on Thomason copy: "Jan: 4th 1647"; the "8" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Pay, allowances, etc. --  Early works to 1800.</term>
+               <term>Soldiers --  England --  Billeting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116465:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE NORTHERNE ARMY: WITH Inſtructions concluded at a Councell of Warre, concerning the <hi>Northern Forces.</hi>
+            </p>
+            <p>ALSO A Letter concerning the Countries re<g ref="char:EOLhyphen"/>ſolutions in relation to the <hi>Scots.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="ratification">
+                        <opener>
+                           <date>
+                              <hi>Decemb. 30. 1647.</hi>
+                           </date>
+                        </opener>
+                        <p>
+                           <hi>I</hi> Approve, ratifie, and confirme theſe Orders of the Councell of Warre, and require all Officers and Souldiers, of the Army under my Command duly to obſerve the ſame; And all Field Officers (in their ſeverall places) to ſee that they be made known to all under their reſpective Commands, as other the Articles and laws of Warre; and to cauſe them forthwith to be publiſhed in every Pariſh Church within the Quarters of each Troope and Company, that they may be the better made known to the Country.</p>
+                        <closer>
+                           <dateline>Given under my hand
+<date>the 30 of Decemb. 1647.</date>
+                           </dateline>
+                           <signed>J. LAMBERT.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>York</hi> by <hi>Thomas Broad,</hi> And Re-Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116465:2"/>
+            <pb n="1" facs="tcp:116465:2"/>
+            <head>A LETTER Concerning The Countries reſolution in Relati<g ref="char:EOLhyphen"/>on to the SCOTS.</head>
+            <div type="body_of_letter">
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>I <hi>Have ſent you heer incloſed, the</hi> Declaration of the Northern Army, <hi>commanded by our</hi> Generall <hi>to be publiſhed, with his</hi> Warrant <hi>for publication thereof, all things are quiet hereabouts, and the Country unanimous, Peoples mindes run much upon the</hi> Scots, <hi>they galled their backs ſo much before, that now they begin to winch before they are touched.</hi>
+               </p>
+               <closer>
+                  <dateline>York
+<date>the firſt of <hi>Janua.</hi>
+1647.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="declaration">
+               <p>WHereas by the bleſſing of God upon the faith<g ref="char:EOLhyphen"/>full endevours, and the great and difficult ſer<g ref="char:EOLhyphen"/>vices of the Armies, raiſed by the Parliament, for the defence and preſervation of the Laws, Rights, and Li<g ref="char:EOLhyphen"/>berties <pb n="2" facs="tcp:116465:3"/>of the Kingdome, from oppreſſion, injuſtice, and ſlavery, ſome eaſe and reliefe hath been brought to the people, as well in theſe North<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn, as other parts of the Kingdom, to their great comfort and be<g ref="char:EOLhyphen"/>nefit, after a long ſuffering, by a cruell and waſting Warre; and yet nevertheleſſe (as the reſt, ſo) theſe parts in particular do ſtill lie under great burthens and oppreſſions, notwithſtanding the great care &amp; means uſed (as much as could be) to eaſe and relieve them, both by a late earneſt endevour and ſollicitation for obtaining of monies from the Parliament for the pay<g ref="char:EOLhyphen"/>ment of theſe Forces, the preventing and puniſhing of the miſ-demeanours and diſorders of the Souldiers; and for the equall and juſt diſtribution of them into quarters, thorow the whole Aſſotiation, in ſuch man<g ref="char:EOLhyphen"/>ner as that each County, Ryding, Wapontake, and alſo each Town and Inhabitant might beare their e<g ref="char:EOLhyphen"/>quall proportion in quartering, that thereby the ge<g ref="char:EOLhyphen"/>nerall charge (which for the preſent cannot be remo<g ref="char:EOLhyphen"/>ved) might be equally and orderly diſpoſed for the greateſt eaſe of the country, and the enormities and diſorders of the Souldiers might be corrected and re<g ref="char:EOLhyphen"/>dreſt, (as much as could be) for the pence and quiet thereof: In the proſecution of which intent, Orders were agreed upon, and publiſhed by the Commander in Chief, and Councell of Warre at <hi>Wakefield</hi> the ninth of
+<hi>September</hi> laſt; and ſince that other Orders iſſued at
+<hi>Rippon,</hi> by the Commander in Chief, for a more equal quartering then was in the former provid<g ref="char:EOLhyphen"/>ed. Notwithſtanding which divers Complaints are dayly made not onely of the unequal diſtribution and allotment of Quarter, in the ſeverall Wapontakes, Pariſhes, and Townes; but alſo of the ſeverall diſ<g ref="char:EOLhyphen"/>orders, <pb n="3" facs="tcp:116465:3"/>and miſdemeanours, (by extorting of mo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y from the Countrey, and otherwiſe) committed by di<g ref="char:EOLhyphen"/>vers Souldiers and inferior Officers of the Army; be<g ref="char:EOLhyphen"/>ing chiefly occaſioned by reaſon ſome Officers have not been ſo carefull in the diſcharge of their Duties in their reſpective Places, as (out of obedience to Authority, love to equity, and common good of the Countrey) they ought to have been.</p>
+               <p>For remedy and prevention whereof (and of all other of the like nature) for the time to come it is or<g ref="char:EOLhyphen"/>dered by this Councel as followeth;</p>
+               <div type="part">
+                  <head>Concerning the inequality of Quartering.</head>
+                  <p n="1">I. That forthwith a review be made of the ſeverall Quarters of the Army, and that every Colonel, Ma<g ref="char:EOLhyphen"/>jor, Captain, Lieutenant, Enſigne, Cornet, and Quartermaſter of Horſe, Foot, and Dragoones, ſhall (on ſight hereof) procure of the High-Conſtables of the Diviſions or Wapontakes within the Quarters of their reſpective Regiments, Troopes and Companies, a Book or Liſt of the Rates of each Towne, Pariſh and Place within the ſame, and thereby make inquiry within their ſaid Quarters, what inequality of Quar<g ref="char:EOLhyphen"/>tering there is; and ſhall take care that the Officers and Souldiers of his Regiment, Troop or Company now be, (and hereafter ſhall be) equally and juſtly diſtributed and divided, in and to the ſeverall and re<g ref="char:EOLhyphen"/>ſpective Hundreds, Townes, Pariſhes, Places and Perſons, allotted (or hereafter to be allotted) to them for their reſpective Quarters, according to the ſaid Chief Conſtables Rates upon every Inhabitants Eſtate, in Lands, Goods, or other profits in the Town or Pariſh where it lieth, according to the Ordinance of Parliament for the Aſſociation; and in caſe any
+<pb facs="tcp:116465:4"/>inequality or partiality ſhall be found in the diſtributi<g ref="char:EOLhyphen"/>on of Quarters, through default of the High-Conſta<g ref="char:EOLhyphen"/>bles, Conſtables, Quartermaſters, or other Officers, that the ſaid Officers, together with the ſaid High-Conſtables and Petty Conſtables of the reſpective Diviſions and Conſtableries, ſhall again proportion the Allotments, and uſe their utmoſt endeavours to regulate the ſame, ſo as every Diviſion, Town, Pa<g ref="char:EOLhyphen"/>riſh, Place, and Perſon, may bear their equal and juſt proportion.</p>
+                  <p n="2">II. That all Townes and Pariſhes (where any part of the Army ſhall be appointed to quarter) ſhall be equally proportioned by ſuch Aſſeſſours as are or ſhall be choſen by the Inhabitants, (or the major part of them, (as in the like caſes hath been uſed and if any Inhabitant ſhall refuſe to pay or bear his or her proportion, juſtly aſſeſſed by the Aſſeſſours, for Lands, Goods, or other Profits for the charge of Quartering, then the Captain (or other Commiſſion Officers of the Troop or Company in whoſe Quar<g ref="char:EOLhyphen"/>ters it ſhall happen to be, ſhall (upon Complaint made to him or them) appoint ſo many Souldiers to quarter at the dwelling houſe of ſuch Refuſers as comes to their Proportion; provided in be within the ſame Riding of this County, or within the ſame County in other parts of the Aſſociation; and if not, he is to certifie the Commander in Chief thereof. Provided alſo that if any Town or Pariſh ſhall either out of malice, or other ſiniſter end, oppreſſe, or over<g ref="char:EOLhyphen"/>aſſeſſe any particular Perſon in habiting therein, the ſaid Perſon ſo oppreſſed, ſhall be relieved as is provi<g ref="char:EOLhyphen"/>ded in the next enſuing Article, <hi>viz.</hi>
+                  </p>
+                  <p n="3">III. That in caſe there now is (or hereafter ſhall hapren to be) any difference, between any Inhabitants <pb facs="tcp:116465:4"/>of any Town or Pariſh, concerning their juſt Pro<g ref="char:EOLhyphen"/>portion in Quartering (or in Aſſeſſment for the charge of Quartering) the Captain, or (in his abſence) the next Commiſſion-Officers of each Regiment, Troop or Company in whoſe Quarters that difference hap<g ref="char:EOLhyphen"/>pens to be, ſhall examine the matter on both Parties, and uſe his utmoſt endeavours by perſwaſions and fair meanes to reconcile the ſame; which if he cannot effect, he is to bring the Parties before the next Juſtice of the Peace, who is by us earneſtly deſired to be aſ<g ref="char:EOLhyphen"/>ſiſting to ſuch Officer in ending the difference, and if by this meanes a reconciliation cannot be procured, by reaſon of the refractorineſſe of one or both Par<g ref="char:EOLhyphen"/>ties, the ſaid Juſtice of the Peace is further deſired by this Councel, to joyne with the ſaid Officer (who is hereby thereunto required) in certifying the caſe in Writing to the Commander in Chief. And what Officer ſoever upon the deſire of any Plaintiffe or Party aggrieved herein, deſiring to have juſtice and relief, ſhall wilfully neglect or refuſe to bear, and en<g ref="char:EOLhyphen"/>deavour to reconcile the ſame, as is before expr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt) ſhall be proceeded againſt as an enemy to Diſcipline and Service.</p>
+                  <p n="4">IV. That whereas great complaints are made, that (notwithſtanding all former Orders to the contrary) divers Officers and Souldiers do by threates, and otherwiſe forcibly and unjuſtly I avie and collect monies upon the Countrey, It is therefore (for prevention of all inconveniences, irregular courſes, and charges of that kinde) Ordered, that no Officer or Souldier ſhall demand or receive any monies as afore<g ref="char:EOLhyphen"/>ſaid; But in caſe the Towne appointed to quarter, ſhall rather deſire to pay the Souldiers in money, to provide themſelves quarters, then actually to quarter <pb facs="tcp:116465:5"/>them, (and the Souldiers likewiſe be content with the rates and allowances in the Lyſt enſuing,) notwith<g ref="char:EOLhyphen"/>ſtanding the Rules ſet downe in theſe preſent Orders, It is deſired, that each Conſtable in his reſpective Conſtablerie, may collect the rates and allowances ſet downe in the ſaid Lyſt, (according to the equall proportion quartered upon them in each Conſtable<g ref="char:EOLhyphen"/>rie) being for the neceſſary quarters of each Officer and Souldier both for themſelves, their Servants and Horſes; and each Officer and Souldier, ſhall be fully ſatisfied and contented with the ſaid Rates and Al<g ref="char:EOLhyphen"/>lowances for their owne, their ſervants, and Horſes quarters: And if any perſon ſhall preſume to demand, receive, or force any Conſtable (or other) to collect or pay above the proportion and allowance therein allowed and agreed upon, ſhall bee proceeded againſt according to the Articles of War for Extortion: And the Officers and Souldiers may be aſſiſting to the Con<g ref="char:EOLhyphen"/>ſtables in the raiſing and collecting of ſuch Allowan<g ref="char:EOLhyphen"/>ces, being Aſſeſſed for that purpoſe by Aſſeſſors, as is provided in the ſecond Article.</p>
+                  <list>
+                     <head>Foot.</head>
+                     <item>
+                        <hi>Each foot-Souldier</hi> 6 <abbr>
+                           <hi>d</hi>
+                        </abbr>
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Gentleman of Arms</hi> 7 <abbr>
+                           <hi>d</hi>
+                        </abbr>
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Corporall of Foot</hi> 7 <abbr>
+                           <hi>d</hi>
+                        </abbr>
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Drummer</hi> 7 <abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Serjeant of Foot</hi> 9 <abbr>
+                           <hi>d</hi>
+                        </abbr>
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Drumm-Major</hi> 9 <abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Quartermaſter of Foot</hi> 3
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 6 <abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day</hi>
+                     </item>
+                     <item>
+                        <hi>Each Enſign of Foot</hi> 2 <abbr>
+                           <hi>s</hi>
+                        </abbr>
+4 <abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Lieutenant of Foot</hi> 3
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Captain-Lieutenant of Foot</hi> 3
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 6 <abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Captaine of Foot</hi> 5 <abbr>
+                           <hi>s</hi>
+                        </abbr>
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Maior of Foot</hi> 6 <abbr>
+                           <hi>s</hi>
+                        </abbr> 6
+<abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Lieutenant Col. of Foot</hi> 7
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Colonell of Foot</hi> 8 <abbr>
+                           <hi>s</hi>
+                        </abbr>
+                        <hi>a day.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Horſe.</head>
+                     <item>
+                        <hi>Each Trooper mounted</hi> 1 <abbr>
+                           <hi>s</hi>
+                        </abbr> 6
+<abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Trooper unmounted</hi> 9 <abbr>
+                           <hi>d</hi>
+                        </abbr>
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Officer of Horſe not in Commiſſion,</hi> viz.</item>
+                     <item>
+                        <hi>Trumpetter, Corporall and Chirurgion-Mate</hi> 1
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 8 <abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Quartermaſter of Horſe as a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Cornet of Horſe</hi> 5 <abbr>
+                           <hi>s</hi>
+                        </abbr>
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Lieutenant of Horſe</hi> 6
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Captain Lieuten. of horſe</hi> 7
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Captaine of Horſe</hi> 8
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Maior of Horſe</hi> 8 <abbr>
+                           <hi>s</hi>
+                        </abbr>
+6 <abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Colonell of Horſe</hi> 9
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Dragoons.</head>
+                     <item>
+                        <hi>Each Dragoon mounted</hi> 1 <abbr>
+                           <hi>s</hi>
+                        </abbr> 4
+<abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Dragoon unmounted</hi>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <abbr>
+                           <hi>d</hi>
+                        </abbr>
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Corporall and Drummer of Dra<g ref="char:EOLhyphen"/>goons</hi> 1
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 6 <abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Serieant of Dragoons.</hi> 1
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 7 <abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <item>
+                        <hi>Each Quartermaſter of Dragoons</hi> 3
+<abbr>
+                           <hi>s</hi>
+                        </abbr> 4 <abbr>
+                           <hi>d</hi>
+                        </abbr> 
+                        <hi>a day.</hi>
+                     </item>
+                     <pb n="7" facs="tcp:116465:5"/>
+                     <item>Each Cornet of Dragoons 4 ſhillings a day.</item>
+                     <item>Each Lieut. of Dragoons 4. <abbr>
+                           <hi>s.</hi>
+                        </abbr> 6.
+<abbr>
+                           <hi>d.</hi>
+                        </abbr> a day.</item>
+                     <item>Each Capt. of Dragoons 5. <abbr>
+                           <hi>s.</hi>
+                        </abbr> 6.
+<abbr>
+                           <hi>d.</hi>
+                        </abbr> a day.</item>
+                  </list>
+                  <list>
+                     <head>Staffe Officers <hi>and</hi> Generall Officers.</head>
+                     <item>Each Gunners Mate one ſhilling a day.</item>
+                     <item>Each common Gunner 10. <abbr>
+                           <hi>d.</hi>
+                        </abbr> a day.</item>
+                     <item>Each Matroſſe 8. <abbr>
+                           <hi>d.</hi>
+                        </abbr> a day.</item>
+                     <item>Chiefe Gunner 2. <abbr>
+                           <hi>s.</hi>
+                        </abbr> a day.</item>
+                     <item>Each Wagon Maſter 2. <abbr>
+                           <hi>s.</hi>
+                        </abbr> 6.
+<abbr>
+                           <hi>d.</hi>
+                        </abbr> a day.</item>
+                     <item>Each Marſhall to a Regiment 3. <abbr>
+                           <hi>s.</hi>
+                        </abbr> a day.</item>
+                     <item>Each Chaplain 5. <abbr>
+                           <hi>s.</hi>
+                        </abbr> a day.</item>
+                     <item>Each Chirugion 4. <abbr>
+                           <hi>s.</hi>
+                        </abbr> a day.</item>
+                     <item>Each Deputy-Muſtermaſter 3. <abbr>
+                           <hi>s.</hi>
+                        </abbr> a day.</item>
+                     <item>Joynt Commiſſary of the Muſters 3.
+<abbr>
+                           <hi>s.</hi>
+                        </abbr> 6. <abbr>
+                           <hi>d.</hi>
+                        </abbr> a day.</item>
+                     <item>Marſhall Generalls Lieutenant 3.
+<abbr>
+                           <hi>s.</hi>
+                        </abbr> a day.</item>
+                     <item>Marſhall Gen. 4. <abbr>
+                           <hi>s.</hi>
+                        </abbr> 6.
+<abbr>
+                           <hi>d.</hi>
+                        </abbr> a day.</item>
+                     <item>Seven Marſhalls men, each 1. <abbr>
+                           <hi>s.</hi>
+                        </abbr>
+8. <abbr>
+                           <hi>d.</hi>
+                        </abbr> a day.</item>
+                     <item>Judge Advocate and Secretary to the Councel of War; 7.
+<abbr>
+                           <hi>s.</hi>
+                        </abbr> a day.</item>
+                     <item>Muſtermaſter Gen. 7. <abbr>
+                           <hi>s.</hi>
+                        </abbr> a day.</item>
+                     <item>Scout Maſter Gen. 12. <abbr>
+                           <hi>s.</hi>
+                        </abbr> a day.</item>
+                     <item>Chirurgion Gen. 7. <abbr>
+                           <hi>s.</hi>
+                        </abbr> a day.</item>
+                  </list>
+                  <p n="5">5. That each Souldier and Officer, with the ſaid allow<g ref="char:EOLhyphen"/>ance and proportion ſet down, ſhall provide quarters for himſelf, his Servants and Horſes as aforeſaid, as he ſhall think fit, without any further charge at all to the Coun<g ref="char:EOLhyphen"/>try,) provided, that each Officer be quartered within the quarters of the Troop, or Company to which he doth belong, and that each Souldier do not quarter himſelf out of the Town or Pariſh where he is allotted to quarter, without the ſpeciall leave of his Captain, or other Com<g ref="char:EOLhyphen"/>miſſion Officer) But if either the Officers, or Souldiers
+<pb n="8" facs="tcp:116465:6"/>ſhall not think fit to accept of the ſame Rates aforementi<g ref="char:EOLhyphen"/>oned, in lieu of their quarters, in regard the Countrey may exact unreaſonable Rates &amp; priſes for ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s or horſe provi<g ref="char:EOLhyphen"/>ſions, or the Towns do rather deſire to give quarters then the aforementioned Rates, It is Ordered, that the Soul<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll be appointed and ſetled by the Quarter maſter, or other Commiſſion Officer of the Troop or Company, with the Aſſiſtance of the Conſtable of the Town or pa<g ref="char:EOLhyphen"/>riſh, in ſome convenient houſes of the ſame; and the per<g ref="char:EOLhyphen"/>ſons with whom they ſhall be appointed to quarter, ſhall be ſatisfied by the Conſtable, and Inhabitants of the Town or Pariſh, for their quarters both for Horſe and men, as they ſhall agree.</p>
+                  <p n="6">6. That if any Town or Pariſh ſhall not think fit to make the ſaid allowance in lieu of quarters, or any Officer or Souldier do not accept nor receive the ſame, to pro<g ref="char:EOLhyphen"/>vide himſelf quarters, as before mentioned, every ſuch Officer and Souldier ſhall be content with ſuch dyer, as tho e with whom they quarter uſually afford themſelves and their Families, and not abſent himſelf from his quar<g ref="char:EOLhyphen"/>ters, wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hout ſpeciall leave by Ticket,
+<hi>viz.</hi> the Souldiers and Officers not in Commiſſion
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> from the Captain or Field Officer, and the Officers in Commiſſion from the Commander in Chief, which Ticker ſhall expreſſe the place he is to go to, and the time allowed for his ſtay: And if any ſuch Souldier or Officer ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll abſent himſelf upon his own occaſions, without leave <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſaid, he ſhall not demand (and his Landlord ſhall not pay h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m any money for his abſence. But if any ſuch Officer or Souldier ſhall be abſent up<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n the publike Service, or with leave as aforeſaid, w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ch is to be allowed by the Officers <pb n="9" facs="tcp:116465:6"/>but upon reall and urgent occaſions only, and for as little time as can be, ſuch Officer or Souldier during ſuch his abſence, ſhall be allowed according to the Rates, for his quality, mentioned in the ſaid Liſt, one moietie whereof is to be paid upon his departure, and the other at his re<g ref="char:EOLhyphen"/>turne.</p>
+                  <p n="7">7. That if any Souldier or Officer, receiving his ſaid al<g ref="char:EOLhyphen"/>lowance, ſhall refuſe or neglect to pay his Landlord for his quarters, according as he ſhall agree, upon complaint thereof to the next Superiour Officer in Commiſſion, ſuch Officer ſhall cauſe the Neglecter or refuſer to make preſent payment to his Landlord of the ſum due, or do his endeavour to giue juſt ſatisfaction to the party wrong<g ref="char:EOLhyphen"/>ed therein: which if he ſhall neglect or refuſe to do, he ſhall upon complaint thereof, pay the Landlord out of his own purſe, the double of what is due from the Souldier, beſides ſatisfaction for the Landlords neceſſary charges of proſecution.</p>
+               </div>
+               <div type="part">
+                  <pb n="10" facs="tcp:116465:7"/>
+                  <head>Againſt the diſorders of the Souldiers.</head>
+                  <p n="8">8. THat to prevent the Souldiers and all others from committing of diſorders, contrary to the intent of theſe Orders, and other the known Articles of Warre uſed in the Army, and for that the quarters of the Ar<g ref="char:EOLhyphen"/>my are diſperſed over the whole Aſſociation, and every pariſh or perſon that is a greeved, cannot without great charge, trouble and loſſe of time, make his complaint to the Commander in Chiefe; It is Ordered, that the Cap<g ref="char:EOLhyphen"/>tain, Lieutenant, Enſign, or Cornet, Quarter maſter, Serje<g ref="char:EOLhyphen"/>ants, and Corporalls of each Troop and Company, ſhall be appointed, divided, &amp; alotted by their ſuperiour Offi<g ref="char:EOLhyphen"/>cers, to quarter in the moſt convenient places of their Troop or Company, for the more conveniency of hearing Complaints, and redreſſing the diſorders of the Souldiers. And further for the better eaſe of the Countrey in bring<g ref="char:EOLhyphen"/>ing in their Complaints, and for the more eff<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cta<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of all
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>orders, miſdemeanours, &amp; offences to a tryall, It is ordered, that every Captain of a Troop or Company ſhall appoint ſome convenient town or place in or neare the Center of his quarters, and alſo a certain day weekly, where he or ſome Commiſſion Offi<g ref="char:EOLhyphen"/>cer of the Troop or Company, ſhall be preſent to hear, receive, and examine all complaints from the Countrey within his quarters, of which place and day he is to give <pb n="11" facs="tcp:116465:7"/>notice to the Inhabitants within his quarters reſpectively, by procuring them to be proclaimed in every Pariſh Church the next Sunday, within 10 dayes after the re<g ref="char:EOLhyphen"/>ceipt of theſe Orders, and to do his endeavours to rectifie all ſuch diſorders and grievances; which if he cannot do, he is to tranſmit the examinations, and alſo the offenders to the next Regimentall Councell of War, as is appoin<g ref="char:EOLhyphen"/>ted in the next inſuing Article: And in caſe the offence or grievance be of ſuch nature, as if cannot be puniſhed nor redreſſed at the ſaid Councell is then to treaſure the ex<g ref="char:EOLhyphen"/>aminations to the Judge-Advocate of the Army, and give him notice of the names of the Parties and Witneſſes, the place of their abode, &amp; the time &amp; place of the Facts co<g ref="char:cmbAbbrStroke">̄</g>mitting, to the end it may be brought to the next Coun<g ref="char:EOLhyphen"/>cell of War, held at the head quare<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, whoſe ſmall deter<g ref="char:EOLhyphen"/>mination and redreſſe ſhall be had, and the Offenders to bee ſent to the Marſhall Generall in ſafe cuſtody, if the matter require it; and whatſoever Off<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>er ſhall bee found wilfully neglecting the due ex<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>c<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ion hereof. he ſhall be accounted as unfit, and made uncapable of his Office or Command.</p>
+                  <p n="9">9. That the Field<g ref="char:punc">▪</g> Officer, or Officer in chief of each Regiment, both of Horſe and Foot, ſhall have power, and are hereby required to call a Councell of Warre up<g ref="char:EOLhyphen"/>on any complaints or misdemeanours committed b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Souldiers, except in ſuch matters where Life and Limb is concerned, in which caſe no proceedings are permit<g ref="char:EOLhyphen"/>ted without the pretence of, or ſome ſpeci<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll injunction from the Commander in chief. And to that end the Field Officers (or one of them) ſhall appoint a particular cur<g ref="char:EOLhyphen"/>taine; and convenient place about the Co<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>er of the quarters of each Regiment to keep the ſaid Councell at, once every mon<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h, or oft<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er, as occaſion ſhall require.</p>
+                  <pb n="12" facs="tcp:116465:8"/>
+                  <p n="10">10. That no Officer or ſouldier ſhall preſume by threats or otherwiſe, to d ter mine diſcourage or hinder any perſon from complaining, or from proſecution of his complaint; nor ſhall
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffer any violence, or put any burthen, iniury, or wilfull prejudice upon any ſo com<g ref="char:EOLhyphen"/>plaining upon paine of caſhering.</p>
+                  <p n="10">10. That each Offi er whatſoever to whom any com<g ref="char:EOLhyphen"/>plaint ſhall be made, or who ſhall know of any miſde<g ref="char:EOLhyphen"/>men our or diſorder committed by the Soldiers, and ſhall not give all due incouragement and aſſiſtance to each perſon complaining, in the proſecuting and obtaining redreſſe of their complaints, according to juſtice, and al<g ref="char:EOLhyphen"/>ſo uſe all meanes to prevent and compoſe differences in the ſouldiers or the Countery, as is before expreſt, ſhall be made unapable of bearing any command in the Army,</p>
+                  <p n="11">11. That if any Officer or perſon whatſoever ſhall de<g ref="char:EOLhyphen"/>mand or receive quarters (or Mony for quarters) for any more then are of his Troup or Company, and not muſt<g ref="char:EOLhyphen"/>ered the laſt Muſter or ſhall countenance, permit, or (if he know thereof) not diſcover the ſame, ſhall be procee<g ref="char:EOLhyphen"/>ded gainſt upon the Article of War for making falſe Muſters.</p>
+                  <p n="12">12. That in regard ſome Officers and ſouldiers, doe, or may demand and receive their aforementioned Al<g ref="char:EOLhyphen"/>lowance for quarters in more places then one, it is there<g ref="char:EOLhyphen"/>fore Ordered, that no Member of the Army ſhall pre<g ref="char:EOLhyphen"/>ſume to demand or receive the ſaid allowances [or any other whatſoever] in any more places then where he is juſtly allotted and appointed to be quartered.</p>
+                  <pb n="13" facs="tcp:116465:8"/>
+                  <p n="13">13. That in regard the Allowances in the Liſt before mentioned, are not ſufficient for the maintenance of each Officer, with the number of Horſes allowed them by the Eſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bliſhment, It is hereby declared, that the intent there<g ref="char:EOLhyphen"/>of is o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ely for the eaſe of the Countrey, and no to the prejudice of their pay; and if in caſe there ſhall be a Muſter du<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing the time theſe Orders a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in force, and the Officers ſhall not be able to bring to the Muſter, ſo many Horſes as are allowed them in the Eſtabl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhment, not<g ref="char:EOLhyphen"/>withſtanding theſe Orders, each Off<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cer ſhall receive pay upon that Muſter, and his Arreares be accounted to him, as if he had muſtered his full numbers according to the Eſtabliſhment.</p>
+                  <p n="14">14. That no Off<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cer ſhall liſt or enroll any more Soul<g ref="char:EOLhyphen"/>diers in his Troop or Company. And ſuch as (contrary to the Order of the 9. of Septemb. laſt at
+<hi>Wakefield,</hi> have been liſted or enrolled ſince that day, excep<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſuch as have been o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſhall be particularly ordered by the Commander in Chief to be liſted ſhall be forthwith diſcharged.</p>
+                  <p n="15">15. That from the Date of theſe preſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt Orders, the Orders ſet down and agreed on the 9. of September laſt, at <hi>Wakefield</hi> ſhall ceaſe and be no longer in force.</p>
+                  <closer>
+                     <signed>Signed THO: MARGETTS. Advocate.</signed> 
+                     <dateline>
+                        <hi>Yorke</hi>
+                        <date>30. <hi>December</hi> 1647.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </div>
+            <pb n="14" facs="tcp:116465:9"/>
+            <div type="ratification">
+               <p>I Approve, ratifie, and canfirme theſe Or<g ref="char:EOLhyphen"/>ders of the Councell of Warre, and re<g ref="char:EOLhyphen"/>quire all Officers, and Souldiers of the Army under my command duly to obſerue the ſame; And all Field-Officers, Cap<g ref="char:EOLhyphen"/>tains and other Officers, (in their ſeverall places) to ſee that they be made knewne to all under their reſpective commands, as other the Articles, and Lawes of Warre; and to cauſe them forthwith to be publiſhed in every Pariſh Church within the quar<g ref="char:EOLhyphen"/>ters of each Troup and Company, that they may be the better made knowne to the Countrey.</p>
+               <closer>
+                  <dateline>Given under my hand
+<date>the thirteenth of December, 1647.</date>
+                  </dateline>
+                  <signed>I Lambert</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
